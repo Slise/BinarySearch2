@@ -39,7 +39,7 @@ int binarySearch(int targetNumber, NSArray *sortedNumberArray) {
     
     else if (targetNumber == midValue) {
         
-        NSLog(@"Found %d! %d", targetNumber, midpoint);
+        NSLog(@"Target Number is: %d! Midpoint is: %d", targetNumber, midpoint);
         
     }
     
